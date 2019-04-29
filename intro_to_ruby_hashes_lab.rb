@@ -4,7 +4,7 @@ hash_new = {}
 end
 
 def actor
-  :actor => {:name => "Dwayne The Rock Johnson"}
+  :hash_new => {:name => "Dwayne The Rock Johnson"}
 
 end
 
